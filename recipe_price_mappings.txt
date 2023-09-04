@@ -1,0 +1,199 @@
+ 'Brussels sprout', 4.41/lb
+
+ 'anchovy', 1.38
+
+ 'baking powder', 0.65
+
+ 'baking soda', 0.08
+
+ 'banana', 0.69/lb
+
+ 'basil', 4.38,
+
+ 'bay leaf', 51.06
+
+ 'beans', 0.10
+
+ 'beef chuck', 9.39/lb
+
+ 'bell pepper', 2.75/lb
+
+ 'black pepper', 1.89
+
+ 'bread', 0.10
+
+ 'broccoli rabe', 4.41
+
+ 'brown sugar', 0.11
+
+ 'bun', 0.25/count
+
+ 'butter', 0.68
+
+ 'canned tomato', 0.08
+
+ 'canned tomatoes', 0.08
+
+ 'carrot', 1.43/lb
+
+ 'cauliflower', 4.41/ct
+
+ 'cayenne', 3.31
+
+ 'celery', 0.41
+
+ 'cheese', 0.41
+
+ 'chicken stock',0.10
+
+ 'chicken thigh', 4.97/lb
+
+ 'chickpeas',0.08
+
+ 'chili flakes', 1.46
+
+ 'chilies', 0.47
+
+ 'cilantro',1.65/ct
+
+ 'coriander', 1.35
+
+ 'cornstarch',0.17
+
+ 'cream', 0.44
+
+ 'cucumber', 0.83/ct
+
+ 'cumin', 1.32
+
+ 'dijon mustard', 0.22
+
+ 'dill',4.74
+
+ 'dried spaghetti',0.13
+
+ 'egg', 0.18
+
+ 'egg noodles', 0.33
+
+ 'eggplant', 2.75/lb
+
+ 'fettuccine', 0.09
+
+ 'flour',0.07
+
+ 'fresh mozzarella', 0.69
+
+ 'fresh spinach', 0.3
+
+ 'garam masala', 2.92
+
+ 'garlic', 5.53/lb
+
+ 'garlic powder', 0.71
+
+ 'ginger', 5.53/lb
+
+ 'ginger ', 5.53/lb
+
+ 'grated', 0.41
+
+ 'grated cheese',0.41
+
+ 'green bell pepper', 2.75/lb
+
+ 'green chili',0.47
+
+ 'green chilis',0.47
+
+ 'grits', 0.19
+
+ 'ground beef', 0.38
+
+ 'instant yeast',7.48
+
+ 'jalapeño ', 5.53/lb
+
+ 'jalapeños ', 5.53/lb
+
+ 'jam', 0.22
+
+ 'kale', 1.83/lb
+
+ 'leek', 2.19/ct
+
+ 'lemon', 1.09/ct
+
+ 'lemon juice', 0.15/oz
+
+ 'milk', 0.03
+
+ 'mushroom', 0.30
+
+ 'mustard', 0.22
+
+ 'olive', 0.46
+
+ 'olive oil', 0.49
+
+ 'onion', 2.19/lb
+
+ 'oregano',1.22
+
+ 'paprika', 1.03
+
+ 'peanut butter', 0.17
+
+ 'pepper', 1.89
+
+ 'polenta', 0.20
+
+ 'potato', 0.95/lb
+
+ 'red onion', 2.03/lb
+
+ 'rice', 0.11
+
+ 'rice vinegar ', 0.28
+
+ 'rigatoni', 0.13
+
+ 'rolled oats', 0.15
+
+ 'russet potato', 0.95/lb
+
+ 'salsa', 0.17
+
+ 'salt',0.05
+
+ 'scallion', 1.05/ct
+
+ 'shrimp',0.83
+
+ 'smoked paprika',1.22
+
+ 'sour cream', 0.21
+
+ 'soy sauce', 0.22
+
+ 'soy sauce ', 0.22
+
+ 'tahini',0.48
+
+ 'thyme',5.16
+
+ 'tomato',1.65/lb
+
+ 'tortilla', 0.02
+
+ 'turmeric', 2.93
+
+ 'vanilla', 3.32
+
+ 'vegetable',
+
+ 'vegetable oil', 0.16
+
+ 'yogurt', 0.16
+
+ 'zucchini', 1.77/lb
